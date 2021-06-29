@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"stay foolish stay hungry " - Steve Jobs
 Use the left arrow to go back!
